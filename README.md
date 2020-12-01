@@ -10,4 +10,5 @@
 - 📫 How to reach me: [hypersignal.xyz](https://hypersignal.xyz)
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I love web3 and [mountain biking in the woods](https://www.strava.com/athletes/46989448)
--💡 Interested in AR/VR, playing with [A-frame, sometimes](https://github.com/vue-polkadot/apps/issues/100)
+
+- 💡 Interested in AR/VR, playing with [A-frame, sometimes](https://github.com/vue-polkadot/apps/issues/100)
