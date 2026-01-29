@@ -1,5 +1,12 @@
-### Who is Yangwao? 😌
+### Who is Yangwao?
 
+Needs a long overdue refresher
+--
+> Claude, write a new bio.
+>
+>   
+Old generation yangwao
+---
 - 🔭 He was founder of [KodaDot](https://github.com/kodadot/nft-gallery) - [Polkadot NFT Marketplace](https://kodadot.xyz) **supporting nine NFT standards across nine chains**, implementing Ethereum L2 networks EOY 2023
 - 📍 He founded [SubWork - web3 coworking in Julian Alps](//subwork.xyz)
 - 🌱 He is occasionally learning ~~Typescript~~, Rust & ink! smart contracts.
